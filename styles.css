@@ -4,3 +4,16 @@ img {
     height: auto;
     width: 400px;
 }
+
+h1 {
+    font-weight: 700;
+    background-color: rgba(50, 100, 100, .2);
+    font-family: fantasy, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(255, 100, 100, 1);
+    text-align: center;
+}
+
+.recipelinks {
+    font-stretch: expanded;
+    font-weight: 100;
+}
